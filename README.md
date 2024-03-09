@@ -11,3 +11,4 @@ Python lessons from Replit: [100 Days of Code - The Complete Python Course](http
 5. [Conditional statements](python-basics/conditional-statements.py)
 6. [Elif](python-basics/elif.py)
 7. [Nesting](python-basics/nesting.py)
+8. [Nesting](python-basics/casting.py)
